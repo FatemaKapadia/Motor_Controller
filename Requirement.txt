@@ -1,0 +1,13 @@
+Motor should be turned on/off from the app through a button
+Be able to schedule when to on/off the motor
+Recurring schedules
+Specify how long to run the motor for
+When power is off, change the state of the motor
+
+Be able to perform these operations through another phone
+WhatsApp messages of status change
+Information shared for recurring schedules
+Time constraint while deciding how long to run it for
+
+
+

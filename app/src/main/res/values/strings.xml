@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Motor Controller</string>
+    <string name="on_message">ON</string>
+    <string name="off_message">OFF</string>
+    <string name="current_status">CURRENT STATUS</string>
+    <string name="schedue">SCHEDULE</string>
+    <string name="title_activity_set_alarm">SetAlarm</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="Set_new_alarm">SET NEW ALARM</string>
+    <string name="begin_time">SET BEGIN TIME</string>
+    <string name="end_time">SET END TIME</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
